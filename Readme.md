@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Максим](https://up.htmlacademy.ru/adaptive/10/user/106374).
-* Наставник: `Неизвестно`.
+* Студент: [Maxim Kurepov](https://up.htmlacademy.ru/adaptive/10/user/106374).
+* Наставник: [Maxim Syomushkin] (https://htmlacademy.ru/profile/id48647).
 
 ---
 
